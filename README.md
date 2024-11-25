@@ -14,6 +14,10 @@
 * I am Brazilian, woman, mother of an adult daughter. I live and work in the in the Neighborhood: Botafogo, south zone of the City: Rio de Janeiro, State: Rio de Janeiro, Brazil. I worked as an Administration Technician from 1985 to 1996. I have been working using the internet in Brazil since 1995. I have had websites at https://cgi.br and https://registro.br since 1998.
 * Professional registration CRA-RJ:03-03161 of Technologist in Data Processing. Higher Course in Data Processing Technology, held at FACHA - Faculdades Integradas Helio Alonso, classroom course completed in 2003, in the City of Rio de Janeiro, RJ, Brazil.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=amgauna&theme=discord" alt="Amgauna" />
+</a> </p>
+
 ---
 ### ✨ Self-Taught Study (2015 to present)
 <div style="display: inline_block">
